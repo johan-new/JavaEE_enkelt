@@ -11,6 +11,7 @@ All hjälp välkomnas!
 
 
 Förkortningar
+
 Ejb – Enterprise Java Beans, En javaklass som ger en del fördelar. Metoder blir transatkionella. EJB klasser är lätta att integrera med databaser. Man kan säkra EJB-metoder så bara inloggade användare kan nå dem. Metoder kan anropas från klientsidan (RMI).
 
 RMI – Remote Method Invocation, klienten kan anropa metoder på servern.
