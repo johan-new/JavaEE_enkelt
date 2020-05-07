@@ -1,11 +1,4 @@
 # JavaEE_enkelt
-      _                       
-   _ | | __ _   __ __  __ _   
-  | || |/ _` |  \ V / / _` |  
-  _\__/ \__,_|  _\_/_ \__,_|  
-_|"""""_|"""""_|"""""_|"""""| 
-"`-0-0-"`-0-0-"`-0-0-"`-0-0-' 
-
 
 Ett försök till "enkla", kortfattade definitioner på svenska
 
